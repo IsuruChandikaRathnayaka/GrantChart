@@ -1,2 +1,2 @@
 # GrantChart
-The Grant chart Template
+The Grant chart Template - Open with Google Sheets 
